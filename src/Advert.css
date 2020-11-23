@@ -1,0 +1,9 @@
+.adverts {
+  margin-top: 90px;
+  width: 100%;
+}
+
+.advert__image > img {
+  width: 100%;
+  object-fit: contain;
+}
